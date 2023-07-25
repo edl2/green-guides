@@ -3,11 +3,11 @@ output: .retype
 url: https://wotaku.pages.dev/
 
 branding:
-  logo: static/logo.png
-  logoDark: static/logo-dark.png
+  logo: static/logo.svg
+  logoDark: static/logo-dark.svg
   title: Green Guides
 
-favicon: static/favicon.png
+favicon: static/favicon.ico
 
 meta:
   title: " - Green Guides"
